@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Científica",
+  "description": "Calculadora científica profesional con soporte avanzado para funciones trigonométricas, hiperbólicas y logarítmicas, cálculo de alta precisión, historial y diseño oscuro moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

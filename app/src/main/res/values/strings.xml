@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title_scientific_calc">Calculadora Científica</string>
+    <string name="history_title">Historial de Cálculos</string>
+    <string name="history_empty">No hay cálculos recientes</string>
+    <string name="history_clear">Borrar historial</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="error_syntax">Error de sintaxis</string>
+    <string name="error_math">Error matemático</string>
+    <string name="error_division_zero">División por cero</string>
+    <string name="error_domain">Dominio inválido</string>
+</resources>
